@@ -8,7 +8,7 @@
 
 # qh-s42-v5
 
-    42键有线分体，主控apm32f103cbt6，兼容3x5配列，还没测过。
+    42键有线小红点分体，主控apm32f103cbt6，兼容3x5配列，还没测过。
     固件部分源码在 vial-qmk 下。
 
 ![qh-s42-v5-1](./resource/57b303ff65a90bccbc7d2f47cded3296.jpg)
